@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=/home/marlon/git/cryptographic-module/libs/iaikPkcs11Wrapper.jar -DgroupId=iaik.pkcs.pkcs11 -DartifactId=pkcs11-wrapper -Dversion=1.0.0 -Dpackaging=jar
